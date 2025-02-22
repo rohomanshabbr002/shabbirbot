@@ -1,11 +1,11 @@
 module.exports.config = {
     name: "admin",
     version: "1.0.0",
-    permission: 0,
+    hasPermssion: 0,
     credits: "nayan",
     prefix: true,
     description: "",
-    category: "prefix",
+    commandCategory: "prefix",
     usages: "",
     cooldowns: 5,
     dependencies: 
